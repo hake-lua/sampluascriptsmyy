@@ -25,7 +25,7 @@ Sve datoteke su clean i nikada nisu sadržavale viruse niti zlonamjerni kod, upr
 Ovo je arhiva jednog perioda mog rada.
 Repozitorij ostaje dostupan svima koji žele učiti, istraživati ili nastaviti razvijati projekte bazirane na ovim skriptama.
 
-Realno, SAMP danas igraju uglavnom klinci od 10-15 godina, a odrasli koji ga još igraju su često **nezreli**, usamljeni ili sa nekim problemima u životu i mentalno “blago zakržljali” po raznim pitanjima.
+Realno, SAMP danas igraju uglavnom klinci od 10-15 godina, a odrasli koji ga još igraju su često **nezreli**, usamljeni ili sa nekim problemima u životu i mentalno zakržljali po raznim pitanjima.
 
 Ja idem dalje za boljim prilikama i projektima.
 
